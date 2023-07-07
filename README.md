@@ -1,4 +1,4 @@
-# Big Little Official Rules
+# "Big Little" Official Rules
 
 ## Setup
 - For two or more players (ideally four)
